@@ -1,0 +1,5 @@
+# Criminal-Record-Management-System
+
+The main aim of the project is to develop a Criminal Record Management System. The project mainly useful for police departments. This system will help to manage all the data of the criminals of a jail. There are either only web-based applications or it is driven manually in most of the organizations. This application will provide a multiuser platform. There will be two types of logins in this, one will be the admin user and other will be the authorized user. The admin can read and write data on the database. The authorized user could only read records from database. There will also a functionally to match the criminal records  by matching with a sketch/picture. 
+
+This is an online web application with a database system in which police will keep the record of criminals who have been arrested. We have used HTML, JavaScript, CSS, PHP, MySQL and Bootstrap to develop this system. We have also used binary search algorithm to find a criminal from the database. The project's interface is very user-friendly and helpful for authority.
